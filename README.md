@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+A web developer with a passion for building dynamic, user-friendly websites and applications. With a strong foundation in both front-end and back-end development.
 <!--
 **dirgafebriyanda/dirgafebriyanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
